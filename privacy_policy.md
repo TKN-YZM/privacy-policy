@@ -43,7 +43,7 @@ Biz, **learnAI** olarak kullanıcılarımızın gizliliğine büyük önem veriy
 - **Paylaşım:**  
   Bu bilgiler yalnızca oturum açma işlemleri için kullanılır ve başka bir amaçla saklanmaz veya paylaşılmaz.  
 
----
+
 #### ** 6. Gemini API Kullanımı**
 - **Amaç:** 
 -Uygulama, metin işleme ve mesajlaşma hizmetlerini sağlamak için OpenAI Gemini altyapısını kullanır.
